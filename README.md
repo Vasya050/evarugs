@@ -1,1 +1,1 @@
-# evarugs
+# evarugs - educational project
